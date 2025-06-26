@@ -1,6 +1,6 @@
 import React from "react";
 import Sidebar from "./Sidebar";
-import Content from "./Content";
+import Content from "./content";
 import Extras from "./Extras";
 
 const Layout = () => (
