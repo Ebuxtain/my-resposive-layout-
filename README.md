@@ -1,12 +1,54 @@
-# React + Vite
+# 🌐 Responsive Layout with React + CSS Grid
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a fully responsive web layout built using **React**, **Vite**, and **CSS Grid**, designed to adapt seamlessly across **desktop**, **tablet**, and **mobile** devices.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📋 Objective
 
-## Expanding the ESLint configuration
+Create a modern, responsive layout using **CSS Grid** as the primary layout technique with at least three breakpoints.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Live Demo
+
+👉 [Live Site on Vercel](https://your-site-name.netlify.app)
+
+---
+
+## 🛠️ Features
+
+- ✅ CSS Grid layout structure
+- ✅ Responsive design with **3 breakpoints**
+  - Mobile: `<600px`
+  - Tablet: `600px–1023px`
+  - Desktop: `≥1024px`
+- ✅ Semantic HTML5 elements
+- ✅ Modern CSS best practices
+- ✅ Cross-browser compatibility
+
+---
+
+## 🖥️ Screenshots
+
+### 📱 Mobile View
+![Mobile](./screenshots/mobile.png)
+
+### 📱 Tablet View
+![Tablet](./screenshots/tablet.png)
+
+### 🖥 Desktop View
+![Desktop](./screenshots/desktop.png)
+
+---
+
+## 📦 Tech Stack
+
+- **React** (via [Vite](https://vitejs.dev))
+- **CSS Grid**
+- **Media Queries**
+- **HTML5**
+
+---
+
+
